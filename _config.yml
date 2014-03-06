@@ -8,12 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jose Bootstrap
+title : L39 Trainer
 tagline: Site Tagline
 author :
-  name : Jose
+  name : Flipstone Tech.
   email : Jose@email.test
-  github : Joseworks
+  github : Flipstone
   twitter : donjciii
   feedburner : afterburner
 
