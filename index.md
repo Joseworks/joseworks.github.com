@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hello L39!
+tagline: Fly them High!
 ---
 {% include JB/setup %}
 
