@@ -6065,3 +6065,25 @@ a.badge:hover {
 }
 
 
+
+.container-picture-left{
+  width: 240px;
+  height: 185px;
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 3px;
+}
+.container-picture-center{
+  width: 240px;
+  height: 185px;
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 3px;
+}
+.container-picture-right{
+  width: 240px;
+  height: 185px;
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 3px;
+}
